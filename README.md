@@ -1,8 +1,8 @@
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/46109133/149638236-08219c77-c837-4883-b428-8bd5c864e850.png" alt="dt money" width="200"/>
+   <img src="https://github.com/user-attachments/assets/eb1a85c5-b298-4323-b55d-d37b915a6517" alt="app" width="200"/>
 </p>
 
-<h1 align="center">Nome do projeto</h1>
+<h1 align="center">iQuiz</h1>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/igor-sthaynny/">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<p align="center">Breve descricao do projeto</p>
+<p align="center">Projeto para estudo da liguagem nativa Swift</p>
 
 <hr />
 
@@ -39,9 +39,7 @@
 
 # :camera: Screenshots
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/46109133/155231022-7d54b0eb-a0c5-4e60-a244-3e5c30fc9373.jpeg" width="230"/>
-   <img src="https://user-images.githubusercontent.com/46109133/155231022-7d54b0eb-a0c5-4e60-a244-3e5c30fc9373.jpeg" width="230"/>
-   <img src="https://user-images.githubusercontent.com/46109133/155231022-7d54b0eb-a0c5-4e60-a244-3e5c30fc9373.jpeg" width="230"/>
+   <img width="636" alt="Captura de Tela 2025-01-23 às 15 28 52" src="https://github.com/user-attachments/assets/ec73a96a-f4cc-49ad-840d-72d5ea53c13f" width="350"/>
 
 </div>
   
@@ -50,7 +48,7 @@
 # :rocket: Tecnologias
 Esse:
 
-Descreva as tecnologias usadas aqui
+- Swift code
 
 # :computer: Como rodar
 
